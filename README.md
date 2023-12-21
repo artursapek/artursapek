@@ -4,6 +4,8 @@ Interests: Rust, web, crypto, dataviz
 
 Work history:
 
-[Kraken](https://kraken.com) 2016-2023 
+[Wormhole Labs](https://wormhole.com) 2023 - current
 
-[Codecademy](https://codecademy.com) 2013-2016
+[Kraken](https://kraken.com) 2016 - 2023
+
+[Codecademy](https://codecademy.com) 2013 - 2016
